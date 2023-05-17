@@ -28,7 +28,7 @@ Número2 = 2.5
 Apagado = False
 
 #Asignación dinamica (cambio en el dato que maneja la variable)
-N1 = "Alejadro"
+N1 = "Alejandro"
 print("Tu nombre es", N1)
 N1 = 200
 print("Tu número favorito es", N1)
